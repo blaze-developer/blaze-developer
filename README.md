@@ -1,6 +1,12 @@
-## Hi there 👋
+# BlazeDev
 
-<!--
+Hello there!!! :3
+I do a lot of programming, robots, and other things that pique my interest :3
+
+## Languages
+
+![stats](https://stats.blazedeveloper.com/api/top-langs/?username=blaze-developer&size_weight=0.2&count_weight=0.8&layout=compact&theme=transparent&langs_count=10&hide_title=true&hide=html,css)
+
 **blaze-developer/blaze-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: ...
--->
+
